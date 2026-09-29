@@ -1,5 +1,5 @@
 # CMSC320_IntroDataSci_FinalProject
 TO DO:
 1) Name the dataset, link to where it comes from (e.g., the agency or website), and ideally mention its size (rows, columns, time span) so they can see it's large enough for analysis and machine learning.https://insideairbnb.com/pt/get-the-data/
-2) 
-3) A paragraph or two on what interests you about it and what questions you might explore (trends, possible hypotheses, something you could predict with ML).
+   
+2) We choose this dataset because it is large, has a wide variety of uses, and is relevant to the local community for students in D.C. It contains numerical, categorical, geographic, and text attributes, so now we have lots of things to examine in exploratory data analysis, including price differences within neighborhood and room type. It also has clear hypothesis testing capabilities, such as the ability to test if "Superhosts" are significantly more expensive than other hosts, or if there are significant differences in review scores between neighborhoods. Also, it's naturally suited to ML. We plan to create a model that, based on a listing's characteristics, can predict its nightly price, which will then be useful to the user looking for a good listing price and useful to the hosting platforms to choose a competitive price.
